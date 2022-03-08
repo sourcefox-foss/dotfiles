@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": "rx/0",
+            "url": "monerohash.com:2222",
+            "user": "4ABdX34SA8m2obUWSKRmvPLpfM9UxnqXCJn7B3uATrqb2n2D5kBrP8tHETL2kuN5VbWEYVPUDukUuaFi8Ea7RbaX6cB2c42",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
